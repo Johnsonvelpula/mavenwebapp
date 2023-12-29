@@ -15,6 +15,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+  <properties>
+       <username>default_USERNAME</username>
+	   <password>default_PASSWORD</password>
+  </properties>
+  
   <build>
     <finalName>mavenwebAppTest</finalName>
   </build>
